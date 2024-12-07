@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+I'm currently a student at Labschool Upi Bandung High School
+I’m currently learning HTML, CSS, and JS
 <!--
 **Zmost/Zmost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
